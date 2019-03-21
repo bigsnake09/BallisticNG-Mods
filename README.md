@@ -1,5 +1,7 @@
 Don't forget to come join the game's offical discord if you need help or want to release your mod somewhere: https://discord.gg/ballisticng
 
+Browse the game's code base here, updated every major game update: https://vonsnake.gitlab.io/BallisticNG-ModdingReferences/namespaces.html
+
 # Important Stuff
 * If you're only installing mods and not developing them, remember that these mods can do anything that a standalone application can and could be potentially dangerous. Only download BallisticNG code mods from reputable and trustworthy sources and favour open source mods that you can inspect yourself whenever possible.
 * This repo contains mods that will only work for 1.0 and higher, make sure you're up to date before trying to use them.
